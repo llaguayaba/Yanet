@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main () {
+      double s = 50 ;
+      double a = 40;
+           
+      printf("%f" , s *a  );
+      
+      printf ("\n");
+     
+      return 0;
+    }

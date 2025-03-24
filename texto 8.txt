@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main () {
+      double s =365 * 24 * 60 * 60;
+      double a =19;
+           
+      printf("%f" , s *a  );
+      
+      printf ("\n");
+     
+      return 0;
+    }

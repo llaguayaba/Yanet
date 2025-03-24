@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main () { 
+int w = 9;
+int x = 3;
+int y = 7;
+int z = -2;
+
+printf(" x < y AND w > z : %d\n" ,());
+printf(" x >= w XOR z == y  : %d\n" ,(0 || 0));
+printf("True && False || true && false %d\n" , (1&&0 || 1&&0));
+printf("true ^ false ^ true ^ false %d\n " , ( 1 ^ 0 ^ 1 ^0));
+printf("! false && ! false %d\n", (!0 && !0));
+printf("%d\n" , !!! P);
+}
